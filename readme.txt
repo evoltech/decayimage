@@ -1,7 +1,7 @@
 === About ===
 name: Decay Image
 website: https://march-hare.org
-description: Adds support for map markers when an incident has ended
+description: Allows incidents to change when an incident has ended
 version: 1.0
 requires: 2.0
 tested up to: 2.1
