@@ -1,4 +1,4 @@
-End Time - Ushahidi Plugin
+Decay Image - Ushahidi Plugin
 ===============
 
 About
